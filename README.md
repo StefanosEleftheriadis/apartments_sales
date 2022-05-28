@@ -1,1 +1,1 @@
-The program wrote with C. Find the suitable customers fo each apartment
+This program is witten in C. Finds the suitable customers fo each apartment
